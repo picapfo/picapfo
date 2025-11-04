@@ -28,13 +28,6 @@ Backend:
 
 ---
 
-### 📊 GitHub Статистика:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=picapfo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=picapfo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
----
-
 ### 📫 Связаться со мной:
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:picapfo@gmail.com)
