@@ -2,7 +2,7 @@
 
 ## 🚀 Full-Stack Web Developer
 
-Создаю современные веб-приложения с использованием React и Node.js. Люблю чистый код и решение сложных задач.
+Создаю современные веб-приложения с использованием React и Node.js. 
 
 ---
 
@@ -46,7 +46,7 @@ Backend:
 ### 📫 Связаться со мной:
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:picapfo@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@HikariOden)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HikariOden)
 
 ---
 
